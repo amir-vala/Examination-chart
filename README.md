@@ -63,12 +63,6 @@ All your exam data is saved locally in the file `exam_results.json`.
 
 ---
 
-## 📈 Screenshots (Optional)
-
-*Here, you can add screenshots or GIFs showing the app in action.*
-
----
-
 ## 🛡 Future Improvements
 
 * Add public/general subjects (e.g., Persian literature, Arabic, Religion)
@@ -146,12 +140,6 @@ python Script2.py
 ├── exam_results.json      # فایل JSON ذخیره‌سازی داده‌ها
 └── README.md              # همین فایل توضیحات!
 ```
-
----
-
-## 📈 تصاویر (اختیاری)
-
-*اینجا می‌توانید اسکرین‌شات یا GIF از اجرای برنامه اضافه کنید.*
 
 ---
 
